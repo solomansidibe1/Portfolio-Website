@@ -1,2 +1,2 @@
 # Portfolio-Website
-Personal portfolio website to showcase web development projects.
+Personal portfolio website to showcase web development projects and evolution.
